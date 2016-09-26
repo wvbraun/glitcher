@@ -1,0 +1,33 @@
+{
+  "name": "glitcher",
+  "version": "1.0.0",
+  "description": "glitch app",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvbraun/glitcher.git"
+  },
+  "author": "wvbraun",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^3.2.1",
+    "keymirror": "^0.1.1",
+    "lodash": "^4.15.0",
+    "react": "^15.3.2",
+    "react-native": "^0.34.0",
+    "react-native-swipeout": "^2.0.12",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.4.0",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-react": "^6.2.0",
+    "eslint-watch": "^2.1.14",
+    "npm-run-all": "^3.0.0",
+    "redux-immutable-state-invariant": "^1.2.3"
+  }
+}
